@@ -1,0 +1,12 @@
+*
+!.gitignore
+!CMakeLists.txt
+!sample
+!src
+!src/parser
+!sample/*.nonogram
+!src/*.cpp
+!src/*.hpp
+!src/*/*.cpp
+!src/*/*.hpp
+!README.MD
